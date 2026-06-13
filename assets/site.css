@@ -210,6 +210,11 @@ a {
   color: var(--commercial-text);
 }
 
+.badge--gallery {
+  background: #edf7ff;
+  color: #1f5f93;
+}
+
 .footer {
   padding: 0 1.5rem 3rem;
 }
